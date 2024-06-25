@@ -1,0 +1,49 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 21 Ara 2023, 22:27:11
+    Author     : batin
+*/
+
+/* Stil dosyası: style.css */
+
+/* Body Stili */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Form Container Stili */
+.container {
+    margin-top: 50px;
+}
+
+/* Form Genel Stili */
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000000;
+}
+
+/* Form Grubu Stili */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Buton Stili */
+button {
+    width: 100%;
+}
+
+/* Başarı ve Hata Mesajları */
+.alert {
+    margin-top: 20px;
+}
+
+/* Dönme Linki Stili */
+.text-center a {
+    color: #007bff;
+    text-decoration: none;
+}
